@@ -1,0 +1,31 @@
+{
+  "name": "gulp-lost-project",
+  "version": "1.0.0",
+  "description": "A Gulp Lost Project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DGrid Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsoldera/gulp-lost-project.git"
+  },
+  "keywords": [
+    "gulp",
+    "grid",
+    "lost"
+  ],
+  "author": "Danielle Soldera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsoldera/gulp-lost-project/issues"
+  },
+  "homepage": "https://github.com/dsoldera/gulp-lost-project#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "lost": "^7.0.3"
+  }
+}
